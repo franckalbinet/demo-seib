@@ -14,4 +14,4 @@ def snv(
     w=15 # window
 ):
     "Toy implementation of snv"
-    return 1
+    return 2
