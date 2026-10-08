@@ -1,0 +1,14 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "demo-seib"
+  site-url: "https://franckalbinet.github.io/demo-seib"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/franckalbinet/demo-seib"
+
+format-links:
+  - html
+  - format: commonmark
+    text: Markdown
